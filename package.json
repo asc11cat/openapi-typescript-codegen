@@ -1,12 +1,12 @@
 {
-    "name": "@ciptex/openapi-typescript-codegen",
+    "name": "@asc11cat/openapi-typescript-codegen",
     "version": "0.13.10",
     "description": "Library that generates Typescript clients based on the OpenAPI specification.",
     "author": "Ferdi Koomen & Matthew C Duggan",
     "homepage": "https://github.com/Ciptex/openapi-typescript-codegen",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Ciptex/openapi-typescript-codegen.git"
+        "url": "git+https://github.com/asc11cat/openapi-typescript-codegen.git"
     },
     "publishConfig": {
         "access": "public",
@@ -14,7 +14,7 @@
         "registry": "https://registry.npmjs.org"
     },
     "bugs": {
-        "url": "https://github.com/Ciptex/openapi-typescript-codegen/issues"
+        "url": "https://github.com/asc11cat/openapi-typescript-codegen/issues"
     },
     "license": "MIT",
     "keywords": [

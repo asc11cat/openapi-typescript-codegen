@@ -6,7 +6,7 @@
 <!-- [![Quality][quality-image]][quality-url] -->
 <!-- [![Code Climate][climate-image]][climate-url] -->
 [![Downloads][downloads-image]][downloads-url]
-[![Build][build-image]][build-url] 
+[![Build][build-image]][build-url]
 
 > Node.js library that generates Typescript clients based on the OpenAPI specification.
 
@@ -25,7 +25,7 @@
 ## Install
 
 ```
-npm install @ciptex/openapi-typescript-codegen --save-dev
+npm install @asc11cat/openapi-typescript-codegen --save-dev
 ```
 
 
@@ -513,11 +513,11 @@ In order to compile the project and resolve the imports, you will need to enable
 in your `tsconfig.json` file.
 
 
-[npm-url]: https://www.npmjs.com/package/@ciptex/openapi-typescript-codegen
-[npm-image]: https://img.shields.io/npm/v/@ciptex/openapi-typescript-codegen.svg
+[npm-url]: https://www.npmjs.com/package/@asc11cat/openapi-typescript-codegen
+[npm-image]: https://img.shields.io/npm/v/@asc11cat/openapi-typescript-codegen.svg
 [license-url]: LICENSE
-[license-image]: https://img.shields.io/npm/l/@ciptex/openapi-typescript-codegen.svg
-[downloads-url]: https://npm-stat.com/charts.html?package=@ciptex/openapi-typescript-codegen
-[downloads-image]: https://img.shields.io/npm/dm/@ciptex/openapi-typescript-codegen.svg
+[license-image]: https://img.shields.io/npm/l/@asc11cat/openapi-typescript-codegen.svg
+[downloads-url]: https://npm-stat.com/charts.html?package=@asc11cat/openapi-typescript-codegen
+[downloads-image]: https://img.shields.io/npm/dm/@asc11cat/openapi-typescript-codegen.svg
 [build-url]: https://github.com/Ciptex/openapi-typescript-codegen/actions/workflows/push.yml
 [build-image]: https://github.com/Ciptex/openapi-typescript-codegen/actions/workflows/push.yml/badge.svg
